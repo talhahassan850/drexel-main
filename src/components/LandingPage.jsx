@@ -1,7 +1,5 @@
 import React from 'react';
 import { Button, Jumbotron, Container, Carousel, Card, CardDeck } from 'react-bootstrap';
-//import b1 from './assets/images/b1.jpg';
-
 const LandingPage = () => {
     return ( 
     <div>

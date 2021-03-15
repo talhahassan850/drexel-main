@@ -9,11 +9,11 @@ function Footer() {
             
             <div className="col">
                 <h4>Contact</h4><hr/>
-                <span className="list-unstyled">
+                <ul className="list-unstyled">
                 <li>1111-22-334</li>
                 <li>support@emporium.com</li>
                 <li>Lahore</li>
-                </span>
+                </ul>
             </div>
 
             <div className="col">
