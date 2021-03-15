@@ -1,0 +1,88 @@
+.Jumbotron,
+h1,
+p {
+  text-align: center;
+  padding: 10px;
+}
+
+.searchnav {
+  justify-content: center;
+  display: flex;
+  padding-left: 100px;
+  background-color: #157992;
+  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.searchbar {
+  width: 1000px !important;
+  margin-right: 10px;
+}
+
+.topnav {
+  padding-left: 50px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+}
+
+.topnav h2 {
+  
+  color: darkgreen;
+  font-family: "Courier New";
+  font-size: 50px;
+  letter-spacing: 10px;
+  margin-top: 10px;
+}
+.tabs {
+  margin-left: 300px;
+}
+
+
+.img {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  
+}
+
+img.b2 {
+  height:35rem;
+}
+
+.b3{
+  color:white;
+}
+
+.card {
+  margin-top: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.main-footer {
+  color: white;
+  background-color: #116980;
+  padding-top: 3em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: 20px;
+  text-align: center;
+}
+
+hr {
+  height: 1px;
+  background-color: #ccc;
+  border: none;
+}
+
+.col {
+  padding-right: 100px;
+  justify-content: center;
+}
+
+
+.jumbotron {
+  background-image: url(https://res.cloudinary.com/dpoga1ue3/image/upload/v1609068389/abstract-background-1024x273_wtauoz.jpg);
+}
