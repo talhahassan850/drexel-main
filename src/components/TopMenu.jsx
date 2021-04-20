@@ -11,8 +11,9 @@ const TopMenu = () => {
             <div className="tabs">
                 <Link href="/">Home</Link>
                 <Link href="/products">Products</Link>
-                <Link href="/contactus">Contact Us</Link>                                        
-                <Link href="/register">Sign Up</Link>
+                <Link href="/contact">Contact Us</Link>                                        
+                <Link href="/signup">Sign Up</Link>
+                <Link href="/login">Login in</Link>
                         
                 
             </div>
